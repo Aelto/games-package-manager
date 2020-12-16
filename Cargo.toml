@@ -1,0 +1,11 @@
+[package]
+name = "games-package-manager"
+version = "0.1.0"
+authors = ["Aelto <Aelto@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.3"
+termcolor = "1.1.2"
