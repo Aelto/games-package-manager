@@ -1,3 +1,4 @@
+extern crate games_package_manager;
 extern crate clap;
 extern crate termcolor;
 

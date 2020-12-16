@@ -42,7 +42,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "games-package-manager"
+name = "games_package_manager"
 version = "0.1.0"
 dependencies = [
  "clap",
