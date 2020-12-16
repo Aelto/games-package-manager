@@ -10,7 +10,7 @@ mod prompt;
 fn main() -> Result<(), &'static str> {
   let matches = App::new("gpm")
     .version("0.1")
-    .author("Aelto <Aelto@github.com>")
+    .author("Aelto <Aelto@users.noreply.github.com>")
     .about("Games Package Manager utility")
     .subcommand(
       SubCommand::with_name("init")
