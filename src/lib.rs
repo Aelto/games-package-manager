@@ -1,1 +1,5 @@
-pub mod gpm;
+mod gpm;
+
+pub use gpm::{
+  project
+};
